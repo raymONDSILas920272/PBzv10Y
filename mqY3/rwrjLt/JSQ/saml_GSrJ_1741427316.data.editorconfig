@@ -6,7 +6,6 @@ insert_final_newline = true
 
 [**.{ts,tsx,json,js,cjs,sass}]
 indent_style = space
-indent_size = tab
 tab_width = 2
 
 [{go.mod,go.sum,*.go}]
