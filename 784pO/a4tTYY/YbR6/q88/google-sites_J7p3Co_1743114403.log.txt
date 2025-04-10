@@ -85,7 +85,6 @@ intext: we offer a bounty
 responsible disclosure inurl:in
 site:*.br responsible disclosure
 site:*.at responsible disclosure
-site:*.be responsible disclosure
 site:*.au responsible disclosure
 site:*/security.txt "bounty"
 inurl:bug bounty intext:"rupees"
