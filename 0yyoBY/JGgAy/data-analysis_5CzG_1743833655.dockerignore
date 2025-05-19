@@ -31,7 +31,6 @@ test.txt
 # Demos
 demo/tmp.zip
 demo/flagged
-demo/files/*.avi
 demo/files/*.mp4
 
 # Etc
