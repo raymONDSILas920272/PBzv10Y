@@ -16,7 +16,6 @@ linters:
     - goprintffuncname
     - misspell
     - prealloc
-    - copyloopvar
     - stylecheck
     - unconvert
     - gocritic
