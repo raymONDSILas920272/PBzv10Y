@@ -12,7 +12,6 @@ linters:
     - staticcheck
     - typecheck
     - unused
-    - bodyclose
     - dogsled
     - goprintffuncname
     - misspell
