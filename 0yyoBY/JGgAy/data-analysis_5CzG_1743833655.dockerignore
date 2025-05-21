@@ -3,7 +3,6 @@ gradio.egg-info/*
 !gradio.egg-info/requires.txt
 !gradio.egg-info/PKG-INFO
 dist/
-*.pyc
 __pycache__/
 *$py.class
 build/
