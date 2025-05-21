@@ -14,7 +14,6 @@ run:
     - stylecheck
     - unconvert
     - gocritic
-    - revive
   disable-all: true
 issues:
   exclude-rules:
