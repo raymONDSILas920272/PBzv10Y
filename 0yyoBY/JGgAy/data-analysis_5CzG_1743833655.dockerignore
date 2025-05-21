@@ -1,5 +1,4 @@
 # Python build
-.eggs/
 gradio.egg-info/*
 !gradio.egg-info/requires.txt
 !gradio.egg-info/PKG-INFO
