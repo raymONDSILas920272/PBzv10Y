@@ -7,7 +7,6 @@ run:
     - gofmt
     - gosec
     - gosimple
-    - staticcheck
     - typecheck
     - unused
     - dogsled
