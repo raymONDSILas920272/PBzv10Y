@@ -24,7 +24,6 @@ demo/tmp.zip
 demo/flagged
 demo/files/*.mp4
 
-# Etc
 .idea/*
 .DS_Store
 *.bak
