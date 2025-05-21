@@ -9,7 +9,6 @@ __pycache__/
 *$py.class
 build/
 
-# JS build
 gradio/templates/frontend/static
 # Secrets
 .env
