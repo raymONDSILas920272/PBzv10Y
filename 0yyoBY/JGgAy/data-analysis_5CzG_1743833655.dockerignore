@@ -20,7 +20,6 @@ gradio/launches.json
 coverage.xml
 test.txt
 
-# Demos
 demo/tmp.zip
 demo/flagged
 demo/files/*.mp4
