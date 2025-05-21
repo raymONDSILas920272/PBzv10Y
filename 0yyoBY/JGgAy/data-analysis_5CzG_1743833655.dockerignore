@@ -17,7 +17,6 @@ gradio/launches.json
 
 # Tests
 .coverage
-coverage.xml
 test.txt
 
 demo/tmp.zip
