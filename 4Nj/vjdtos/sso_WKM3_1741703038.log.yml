@@ -1,6 +1,5 @@
 run:
   deadline: 120s
-linters:
   enable:
     - govet
     - ineffassign
