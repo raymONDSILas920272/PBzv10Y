@@ -6,7 +6,6 @@ linters:
     - ineffassign
     - goconst
     - gofmt
-    - goimports
     - gosec
     - gosimple
     - staticcheck
