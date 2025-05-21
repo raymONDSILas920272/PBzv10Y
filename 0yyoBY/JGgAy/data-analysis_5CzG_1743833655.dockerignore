@@ -10,7 +10,6 @@ build/
 gradio/templates/frontend/static
 # Secrets
 .env
-
 # Gradio run artifacts
 *.db
 *.sqlite3
