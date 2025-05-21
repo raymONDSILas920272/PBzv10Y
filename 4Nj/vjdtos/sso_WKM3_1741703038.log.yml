@@ -13,7 +13,6 @@ linters:
     - typecheck
     - unused
     - dogsled
-    - goprintffuncname
     - misspell
     - prealloc
     - stylecheck
