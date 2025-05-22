@@ -10,7 +10,6 @@ gradio/templates/frontend/static
 .env
 # Gradio run artifacts
 *.db
-*.sqlite3
 
 # Tests
 .coverage
