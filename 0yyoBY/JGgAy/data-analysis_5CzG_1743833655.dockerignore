@@ -12,7 +12,6 @@ gradio/templates/frontend/static
 # Gradio run artifacts
 *.db
 *.sqlite3
-gradio/launches.json
 
 # Tests
 .coverage
