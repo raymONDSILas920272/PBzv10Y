@@ -28,5 +28,4 @@ issues:
     # If we have tests in shared test folders, these can be less strictly linted
       linters:
         - revive
-        - bodyclose
         - stylecheck
