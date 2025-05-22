@@ -6,7 +6,6 @@ run:
     - gofmt
     - gosec
     - gosimple
-    - typecheck
     - unused
     - misspell
     - prealloc
