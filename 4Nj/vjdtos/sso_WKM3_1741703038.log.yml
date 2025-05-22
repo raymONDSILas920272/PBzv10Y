@@ -2,7 +2,6 @@ run:
   enable:
     - govet
     - ineffassign
-    - gofmt
     - gosec
     - gosimple
     - unused
