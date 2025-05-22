@@ -5,7 +5,6 @@ gradio.egg-info/*
 dist/
 __pycache__/
 *$py.class
-build/
 
 gradio/templates/frontend/static
 # Secrets
